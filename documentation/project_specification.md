@@ -17,4 +17,5 @@ http://weblog.jamisbuck.org/2011/2/3/maze-generation-sidewinder-algorithm <br>
 http://www.astrolog.org/labyrnth/algrithm.htm#perfect <br>
 https://jonathanzong.com/blog/2012/11/06/maze-generation-with-prims-algorithm <br>
 
-I am studying bachelor’s in science (bSc)
+Degree programme : Bachelor’s in science (bSc)
+Project language : English
