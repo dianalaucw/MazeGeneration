@@ -5,3 +5,5 @@ I have finished most of the part in the project definition, chose the theme as t
 Determining the space complexity is a bit confusing for me but I guess it would be more clear after actual implementation of the algorithms.
 
 Next week hopefully I can start the Java coding part and see what problems will arise in real implementation.
+
+Time spent: 7 hours
