@@ -20,4 +20,5 @@ http://www.astrolog.org/labyrnth/algrithm.htm#perfect <br>
 https://jonathanzong.com/blog/2012/11/06/maze-generation-with-prims-algorithm <br>
 
 Degree programme : Bachelor’s in science (bSc) <br>
+Programming language : Java <br>
 Project language : English
