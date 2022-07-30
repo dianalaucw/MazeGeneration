@@ -1,5 +1,5 @@
-What have you done this week?
-How has the project progressed?
-What did you learn this week / today?
-What has been unclear or problematic? Please answer this question truthfully, as this is something the course assistant may be able to help with.
-What next?
+I started to implement Prim's algorithm and Wilson's algorithm. I decided to drop Eller's algorithm and implement only Prim, Wilson and Sidewinder. 
+I learned to create a gradle project and testing files.
+Next week I will try to implement all the algorithm.
+
+Time spent:10h
